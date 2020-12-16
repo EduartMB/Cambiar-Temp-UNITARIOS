@@ -5,6 +5,7 @@ El Script busca de forma recursiva por el directorio en busca de archivos del ti
 El interior de los archivos debe ser de este tipo:
 
 `+----------+----------+----------+----------+----------+----------+----------+----------+`
+
 `| Column1  |  Column2 | Column3  |  Column4 |  Column5 |  Column6 |  Column7 |   Temp   |`
 
 +----------+----------+----------+----------+----------+----------+----------+----------+
